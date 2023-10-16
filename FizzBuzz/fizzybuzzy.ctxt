@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=fizzybuzzy
+comment1.params=divide1\ divide2
+comment1.target=void\ fizzbuzz(int,\ int)
+numComments=2
